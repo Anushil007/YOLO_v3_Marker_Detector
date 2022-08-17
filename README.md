@@ -19,11 +19,11 @@ Master branch includes all codes file.
 ### Create Virtual Enviroment and activate
 python -m venv YOLO_env
 
-Install requirements.txt
+### Install requirements.txt
 pip install -r requirements.txt
 
-To detect Video run
+### To detect marker on live vioeo run
 test_on_video.py
 
-To detect Image run and give image path
+## To detect marker on  Image run and give image path
 test_on_photo.py
