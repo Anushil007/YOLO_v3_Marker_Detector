@@ -16,8 +16,8 @@ Finally, marker was detected with codes from test_on_video.
 Master branch includes all codes file.
 
 ### Clone this [Repo](https://github.com/Anushil007/YOLO_v3_Marker_Detector)
-Create Virtual Enviroment and activate
-python -m venv yolo_env
+### Create Virtual Enviroment and activate
+python -m venv YOLO_env
 
 Install requirements.txt
 pip install -r requirements.txt
