@@ -9,3 +9,21 @@ The coordinates were trained in Google Colab using YOLO v3.
 Configuration file of the training as well as weights were downloaded and used locally.
 
 Finally, marker was detected with codes from test_on_video.
+
+
+
+Steps to run
+Master branch includes all codes file.
+
+Clone this Repo
+Create Virtual Enviroment and activate
+python -m venv yolo_env
+
+Install requirements.txt
+pip install -r requirements.txt
+
+To detect Video run
+test_on_video.py
+
+To detect Image run and give image path
+test_on_photo.py
